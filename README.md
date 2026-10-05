@@ -52,6 +52,7 @@ Tenho interesse em tecnologia e estou sempre buscando aprimorar meus conheciment
 ### 📫 Contato
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ivitorrd3v@gmail.com)   
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:8a2be2&height=4" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 
 🚀 **Sempre aprendendo, desenvolvendo e evoluindo na área de tecnologia.**
