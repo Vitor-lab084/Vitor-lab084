@@ -50,8 +50,7 @@ Tenho interesse em tecnologia e estou sempre buscando aprimorar meus conheciment
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 
 ### 📫 Contato
-
-💻 **GitHub:** https://github.com/Vitor-lab084
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ivitorrd3v@gmail.com)   
 
 ---
 
